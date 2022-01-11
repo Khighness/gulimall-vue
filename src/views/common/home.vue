@@ -1,7 +1,7 @@
 <template>
   <div class="mod-home">
-    <h3>项目介绍</h3>
-    <ul>
+    <h3>Khighness-毕设</h3>
+    <!-- <ul>
       <li>renren-fast-vue基于vue、element-ui构建开发，实现<a href="https://gitee.com/renrenio/renren-fast" target="_blank">renren-fast</a>后台管理前端功能，提供一套更优的前端解决方案</li>
       <li>前后端分离，通过token进行数据交互，可独立部署</li>
       <li>主题定制，通过scss变量统一一站式定制</li>
@@ -22,7 +22,7 @@
     <ul>
       <li>高级群：324780204(大牛云集，跟大牛学习新技能)</li>
       <li>普通群：145799952(学习交流，互相解答各种疑问)</li>
-    </ul>
+    </ul> -->
   </div>
 </template>
 
